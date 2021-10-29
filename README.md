@@ -1,5 +1,7 @@
 # vue-snack
 
+## Snackbar with Vuetify + Vuex
+
 ## Project setup
 ```
 npm install
